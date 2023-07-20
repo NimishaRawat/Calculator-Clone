@@ -1,2 +1,4 @@
 # Calculator-Clone
-task 1
+
+    A website for calculations made with HTML, CSS and Javascript.
+
